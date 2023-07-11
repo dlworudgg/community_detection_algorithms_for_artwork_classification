@@ -1,4 +1,4 @@
-# Clusterization of Artworks with Community Detection Algorithms
+# Community Detection Algorithms for Artwork Classification
 
 ## Zachary Karate Club data
 
